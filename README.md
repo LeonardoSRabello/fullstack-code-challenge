@@ -4,7 +4,7 @@ This is Limbic’s FullStack Challenge that combines bits from the frontend and 
 
 Jane is a clinical therapist and wants her clients to answer simple questionnaires in order to better understand them. She needs a way to add/delete/edit questions and also see the answers of each client.
 
-## Backend 
+## Backend
 
 You are tasked with writing an API to create/edit/delete Users, Questions, and Answers. It should be a NodeJS/ExpressJS server with the following endpoints:
 
@@ -62,7 +62,6 @@ You are tasked with writing a React/React Native app to consume the backend API.
 
 You can use anything you want for state management. We use MobX and the Context API a lot so it's a big plus if you can also **implement some/all of the state handling with MobX and Context API**.
 
-
 ## Instructions
 
 1. **Submitting Code**
@@ -91,3 +90,7 @@ You can use anything you want for state management. We use MobX and the Context 
 3. **Implementation:**
 
    There is no correct way to do the challenge, you are free to add whatever libraries you like besides the ones mentioned below. We want to see what you come up with on your own.
+
+## How to run
+
+Make sure that Docker is working correctly. No other preparation is necessary. Just run `docker-compose up`, then see the page from `http://localhost`.

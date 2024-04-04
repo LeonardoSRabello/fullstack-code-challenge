@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "660b0a107a242201a0ecc99c",
+    "content": "new content 1",
+    "userId": "66074a1708ae99677f9a8569",
+    "questionId": "660add405d36c5743ca836d2",
+    "archived": false,
+    "createdAt": "2024-04-01T19:25:04.467Z",
+    "updatedAt": "2024-04-01T19:25:04.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b07b33cd5c0d346692f91",
+    "content": "new content 1",
+    "userId": "66074a1708ae99677f9a8569",
+    "questionId": "660add405d36c5743ca836d2",
+    "archived": false,
+    "createdAt": "2024-04-01T19:14:59.622Z",
+    "updatedAt": "2024-04-01T19:14:59.622Z",
+    "__v": 0
+  }
+]
